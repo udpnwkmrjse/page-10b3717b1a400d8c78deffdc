@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "d866ec8d6ce2a16da173e5a0",
+  "owner": "udpnwkmrjse",
+  "repo": "page-10b3717b1a400d8c78deffdc",
+  "title": "v2SpaceX",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "10b3717b1a400d8c78deffdc",
+      "a": "v2SpaceX",
+      "b": "",
+      "entity": "v2SpaceX",
+      "brand": "v2SpaceX",
+      "separator": "",
+      "path": "index.html",
+      "hash": "aa5f3b800e797354a86f4c361d4ed45bd9f6366f26b467ff3ed652f4dfd29d46",
+      "content": {
+        "keyword1": "v2SpaceX",
+        "keyword2": "",
+        "primary_entity": "v2SpaceX",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "v2SpaceX 提供机场订阅、VPN 梯子与多平台客户端官方下载，覆盖流媒体解锁、游戏加速与跨境办公，本页说明套餐、使用场景与配置步骤。",
+          "AI_DESCRIPTION": "v2SpaceX 提供机场订阅、VPN 梯子与多平台客户端官方下载，覆盖流媒体解锁、游戏加速与跨境办公，本页说明套餐、使用场景与配置步骤。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>body{margin:0;font-family:system-ui,-apple-system,BlinkMacSystemFont,\"Segoe UI\",sans-serif;background:#f3f4f6;color:#111827;font-size:16px;line-height:1.65}*{box-sizing:border-box}a{color:#5b21b6;text-decoration:underline}header{background:#5b21b6;color:#fff;padding:18px 16px}header a{color:#fff;text-decoration:none;margin-right:12px;font-size:0.95rem}header .brand{font-weight:700;font-size:1.15rem;display:block;margin-bottom:10px}nav{display:flex;flex-wrap:wrap;gap:8px 0}.wrap{max-width:740px;margin:0 auto;padding:16px 16px 32px}main{display:block}h1{font-size:1.7rem;line-height:1.3;margin:8px 0 12px;color:#111827}h2{font-size:1.32rem;color:#5b21b6;margin:28px 0 12px}h3{font-size:1.08rem;margin:16px 0 8px;color:#1f2937}p,li{color:#1f2937}ul,ol{padding-left:1.2rem}header+ .wrap p.lead{font-size:1.02rem}.card{background:#fff;border:1px solid #e5e7eb;border-radius:12px;padding:16px;margin:12px 0}.plan{background:#fff;border:1px solid #e5e7eb;border-radius:12px;padding:16px;margin:14px 0}.plan.featured{border:2px solid #7c3aed;background:#faf5ff}.price{font-size:1.25rem;font-weight:700;color:#5b21b6}.muted{color:#4b5563;font-size:0.95rem}.step{border-left:4px solid #7c3aed;padding:4px 0 4px 14px;margin:14px 0;background:#fff;border-radius:0 10px 10px 0;padding-top:10px;padding-bottom:10px;padding-right:12px}.step strong{color:#5b21b6}details{background:#fff;border:1px solid #e5e7eb;border-radius:10px;padding:10px 14px;margin:10px 0}summary{font-weight:650;color:#111827}details p{margin:8px 0 4px}footer{background:#e5e7eb;color:#1f2937;padding:22px 16px;font-size:0.92rem}footer h2{color:#111827;margin-top:8px}footer a{color:#5b21b6}.adbox,.links{background:#fff;border-radius:10px;padding:12px 14px;margin:10px 0}.note{font-size:0.92rem;color:#4b5563}</style><header id=\"top\"><span class=\"brand\">v2SpaceX 官方网站</span><nav><a href=\"#intro\">简介</a><a href=\"#plans\">套餐</a><a href=\"#clients\">客户端</a><a href=\"#scenes\">场景</a><a href=\"#guide\">说明</a><a href=\"#faq\">问答</a><a href=\"#download\">官网下载</a></nav></header><div class=\"wrap\"><main><h1>v2SpaceX 官方网站</h1><p class=\"lead\">v2SpaceX 面向需要稳定跨境连接的个人与团队，提供机场订阅、VPN 梯子与网络加速服务。用户可在本页了解套餐差异、完成客户端选择，并按步骤导入订阅、连接节点。</p><section id=\"intro\"><h2>品牌简介</h2><p>v2SpaceX 将订阅制机场与多端客户端结合：开通后即可获得通用订阅地址，用于日常网页加速、流媒体解锁、远程协作和游戏线路优化。本站是 v2SpaceX 信息与官方下载入口，内容覆盖套餐、节点类型、客户端适配和配置流程，避免在非官方渠道误用失效订阅。</p><p>线路侧同时提供普通节点池与 IPLC 专线优化。基础浏览可走常规节点；对延迟和丢包更敏感的游戏、会议场景，可在旗舰版与团队版中切换专线。流量按自然月结算，多设备共用同一订阅，便于手机、电脑与平板同时在线。</p></section><section id=\"plans\"><h2>套餐与机场订阅</h2><p>以下为当前固定套餐。价格含订阅权限与对应流量，按年支付可锁定全年费用。选择后在账户中复制订阅链接，再导入到你使用的客户端。</p><article class=\"plan\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"muted\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul><p>适合轻度浏览、邮件与资料查询。流量与设备数适中，可先验证客户端导入与节点切换是否顺畅。</p></article><article class=\"plan featured\"><h3>旗舰版（推荐）</h3><p class=\"price\">¥35/月</p><p class=\"muted\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul><p>日常追剧、跨境会议与在线对战可共用同一订阅。原生解锁降低地区片源失败概率，IPLC 用于降低游戏延迟抖动。</p></article><article class=\"plan\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"muted\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul><p>面向工作室与小团队：统一订阅、分端使用，可按业务域名做分流，减少公共节点高峰拥堵。</p></article></section><section id=\"clients\"><h2>客户端选择</h2><p id=\"download\">v2SpaceX 不绑定单一软件。订阅兼容常见机场客户端。请先确认系统，再下载对应客户端，最后导入订阅。以下为推荐路径，链接指向本页说明锚点，下载以官网客户端栏目为准。</p><div class=\"step\"><h3>步骤一：确认设备与系统</h3><p>Windows、macOS 适合长时间挂机与分流规则；Android 适合随时切换节点；iOS 需使用支持订阅的客户端。同一套餐可覆盖多台设备，勿超出在线台数。</p></div><div class=\"step\"><h3>步骤二：按系统选择客户端</h3><p><strong>Windows：</strong>优先图形界面客户端，便于订阅更新、规则开关与系统代理。<br><strong>macOS：</strong>可选菜单栏常驻工具，配合分流规则处理浏览器与终端。<br><strong>Android：</strong>选择支持订阅一键更新的应用，注意省电策略勿杀掉后台。<br><strong>iOS：</strong>使用支持 HTTPS 订阅的客户端，导入后开启 VPN 配置描述。<br><strong>路由器 / 软路由：</strong>团队版可把订阅写入网关，让未安装客户端的设备共享加速。</p></div><div class=\"step\"><h3>步骤三：获取官方订阅</h3><p>登录 v2SpaceX 账户后复制订阅 URL。不要把链接发到公开群组。若客户端要求令牌或 User-Agent，使用账户页给出的默认参数即可。</p></div><div class=\"step\"><h3>步骤四：导入并更新节点</h3><p>在客户端选择“从 URL 导入/订阅管理”，粘贴链接并更新。成功后应看到多个地区节点。将自动更新间隔设为 12–24 小时，以免节点变更后无法连接。</p></div><div class=\"step\"><h3>步骤五：选择模式再连接</h3><p>日常浏览可用规则分流，仅对境外域名走代理；需要整机加速时再开全局。游戏与会议优先选 IPLC 或低延迟专线，视频可走带宽更高的普通节点以节省专线占用。</p></div><p class=\"note\">客户端官方下载入口：<a href=\"#download\">Windows 客户端</a> · <a href=\"#download\">macOS 客户端</a> · <a href=\"#download\">Android 客户端</a> · <a href=\"#download\">iOS 客户端说明</a>。请从本站指引获取，避免第三方修改包。</p></section><section id=\"scenes\"><h2>使用场景</h2><h3>跨境办公与协作</h3><p>访问文档、代码托管、会议软件时，用规则模式只加速相关域名，减少国内站点绕路。团队版可按域名定制路由，让财务系统走直连、协作工具走加速。</p><h3>流媒体与内容研究</h3><p>旗舰版强调原生解锁，降低片源地区限制导致的加载失败。观看前先更新订阅，选择标注流媒体的节点，并关闭可能干扰播放的广告拦截规则。</p><h3>游戏加速</h3><p>对延迟敏感的对战，使用 IPLC 专线并关闭不必要的全局扫描。先测延迟再进房；若丢包升高，切换同区域备用节点，而不是反复重装客户端。</p><h3>出行与多设备</h3><p>手机热点下电脑共用同一订阅时，注意套餐在线设备上限。差旅切换网络后若无法连接，先更新订阅再更换协议或端口。</p><h3>资料检索与学术访问</h3><p>基础版即可满足检索与文献站点。大批量下载请关注月度流量，避免在自动更新、云同步同时进行时耗尽额度。</p></section><section id=\"guide\"><h2>操作说明</h2><p>按纵向步骤完成从开通到连上节点。全程不需要额外插件。</p><ol><li>打开 v2SpaceX 官网，进入套餐页，选择基础版、旗舰版或团队版并完成支付。</li><li>进入账户中心，复制机场订阅链接，确认流量周期与设备限额。</li><li>根据上一节完成客户端选择与官网下载，安装后允许系统 VPN 或代理权限。</li><li>在客户端导入订阅并立即更新，检查节点列表是否完整。</li><li>先用规则模式访问一个境外页面，确认分流生效；再按需要切换全局或游戏专线。</li><li>将客户端设为开机启动或需要时手动开启。流量将尽时减少大文件同步，或升级套餐。</li><li>遇到证书、端口失败时，更新客户端内核与订阅，仍失败再提交工单（旗舰版与团队版优先处理）。</li></ol><div class=\"card\"><h3>节点使用建议</h3><p>同一时刻不必开启多个客户端抢占设备数。视频与下载尽量避开游戏专线。若某区域集体超时，等待订阅自动更新，或临时改用邻近区域节点。</p></div></section><section id=\"faq\"><h2>常见问题</h2><details><summary>v2SpaceX 是什么？如何从官网下载客户端？</summary><p>v2SpaceX 是提供机场订阅与网络加速的服务品牌。开通套餐后获得订阅链接，再在 Windows、macOS、Android 或 iOS 上安装兼容客户端并导入即可。请通过本站客户端选择章节获取官方下载指引，不要使用来路不明的安装包。</p></details><details><summary>如何把机场订阅导入到客户端？</summary><p>复制账户中的订阅 URL，在客户端的订阅或配置管理中选择从链接导入，保存后执行一次更新。看到节点列表即表示成功。若提示失败，检查链接是否被截断、网络是否可访问订阅域名，并确认客户端版本不过旧。</p></details><details><summary>基础版、旗舰版和团队版怎么选？</summary><p>轻度浏览选基础版（100GB、3 设备、普通节点）。需要完整流媒体解锁、IPLC 游戏加速和优先工单选旗舰版。多人共用、需要高带宽 VIP 节点或定制路由选团队版。可先按月开通，确认习惯后再改年付。</p></details><details><summary>v2SpaceX VPN 梯子支持哪些协议和设备？</summary><p>订阅面向主流机场客户端，覆盖电脑、手机和平板。具体协议以账户页当时下发的配置为准，客户端会自动识别。路由器或软路由适合团队版统一出口。请勿超出套餐同时在线台数，否则后接入设备可能被踢下线。</p></details><details><summary>流量用完或节点不稳定时怎么办？</summary><p>流量用尽后加速会停用，可等待下个周期或升级套餐。节点不稳定时先更新订阅，改换同区域其他节点，游戏场景优先切 IPLC。仍大面积失败时查看官网公告，旗舰版与团队版可通过优先工单反馈。</p></details><details><summary>按年付如何计算？能否退订？</summary><p>基础版按年付仅需 ¥150/年，旗舰版 ¥350/年，团队版 ¥850/年，对应 12 个自然月流量周期。年付用于锁定价格。退订与剩余流量规则以账户协议为准，下单前请确认周期起始日。</p></details><details><summary>IPLC 专线是否一定更快？</summary><p>IPLC 主要优化游戏与实时互动的延迟和抖动，不代表所有网页都更快。大流量下载可使用普通高带宽节点，把专线留给对时延敏感的应用。旗舰版已包含该优化，基础版以普通节点池为主。</p></details></section><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main></div><footer><p>v2SpaceX 官方网站 · 机场订阅与客户端下载说明</p><h2>网站地图</h2><p><a href=\"#top\">首页</a> · <a href=\"#intro\">品牌简介</a> · <a href=\"#plans\">套餐</a> · <a href=\"#clients\">客户端选择</a> · <a href=\"#scenes\">使用场景</a> · <a href=\"#guide\">操作说明</a> · <a href=\"#faq\">常见问题</a> · <a href=\"#\">XML 地图</a></p><div class=\"adbox\"><h2>广告</h2><p>本栏用于官方活动与合规推广位：<a href=\"#plans\">年付套餐说明</a> · <a href=\"#clients\">多端客户端指引</a> · <a href=\"#guide\">新手配置步骤</a></p></div><div class=\"links\"><h2>友情链接</h2><p><a href=\"#faq\">帮助与问答</a> · <a href=\"#download\">官方下载</a> · <a href=\"#plans\">订阅套餐</a> · <a href=\"#scenes\">场景说明</a> · <a href=\"#top\">返回顶部</a></p></div><p class=\"note\">© v2SpaceX 保留页面内容说明权。节点与套餐以账户实际开通为准。本页仅提供产品介绍与配置阅读，不含评论评分。</p></footer>",
+          "hash": "1c0cdccda8a4565ba29396c8db06348972ddab3668b9d16ec77c74b19d93eacf",
+          "seo": {
+            "title": "v2SpaceX 官网下载 | VPN 梯子网络加速与机场客户端",
+            "keywords": "v2SpaceX,v2SpaceX VPN,v2SpaceX 机场,梯子,网络加速,加速器,客户端下载,官网下载,机场订阅,IPLC专线",
+            "description": "v2SpaceX 提供机场订阅、VPN 梯子与多平台客户端官方下载，覆盖流媒体解锁、游戏加速与跨境办公，本页说明套餐、使用场景与配置步骤。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "hxjxsls.cn",
+    "host": "p-695e93dee6.hxjxsls.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "hxjxsls.cn",
+      "url": "https://hxjxsls.cn/",
+      "label": "忍者云(RenzheCloud)",
+      "apex": "hxjxsls.cn",
+      "kind": null,
+      "identity": "resxpnwwj/page-63b11f2d191325df23a562f3"
+    },
+    {
+      "host": "momvip.cn",
+      "url": "https://momvip.cn/",
+      "label": "v2SpaceX",
+      "apex": "momvip.cn",
+      "kind": null,
+      "identity": "geubjhv/page-487f1cd7735d5716b9988dc7"
+    },
+    {
+      "host": "pianyihao.cn",
+      "url": "https://pianyihao.cn/",
+      "label": "v2SpaceX",
+      "apex": "pianyihao.cn",
+      "kind": null,
+      "identity": "udpnwkmrjse/page-50b2d854b3d4e00399d1cc75"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "c517137d90b141229ce1bcbab74a2f4374f1e26dfe97dabb4c2f614bcf663444",
+    "sitemap.xml": "6290925349fb3228dd071f87fdb54c7d14a8555cd81004dfe42da7788b6dede2",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "021525ce2dab397a86d108584de1d49a92db52b82377933122ef2448c8ec651e",
+    "robots.txt": "23c74fd83331603af084ca68b517be539d1867621c351d21c55006839e5b94e1",
+    "7f1af7b420bf5e4ae1198ec023e56f6d.txt": "f85ea755dfa356b2bc83e99ad4e0573fdee0a7b12021ae6d169f33eb83e481cd"
+  },
+  "revision": "dc876b0f3233e6d02e21a786db5eb4952f36dab2c66e9a2b4186f4323e036d06"
+}
